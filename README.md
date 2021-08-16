@@ -3,5 +3,5 @@
 - 🔭 I’m currently working on Python and SQL for a Data Analyst Position
 - 🌱 I’m currently learning Python and SQL
 - 💬 Ask me about anything related to Python and SQL
-- 📫 How to reach me: https://www.linkedin.com/in/thoht/
+- 📫 How to reach me: https://www.linkedin.com/in/thoht99/
 - ⚡ Fun fact: I <3 🐶
